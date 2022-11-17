@@ -13,6 +13,7 @@
 		AB0AA5772926248B00E81B4D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB0AA5762926248B00E81B4D /* Preview Assets.xcassets */; };
 		AB0AA5792926248B00E81B4D /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0AA5782926248B00E81B4D /* Persistence.swift */; };
 		AB0AA57C2926248B00E81B4D /* PIA11coredata.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AB0AA57A2926248B00E81B4D /* PIA11coredata.xcdatamodeld */; };
+		AB0AA5832926355400E81B4D /* TodoDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB0AA5822926355400E81B4D /* TodoDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		AB0AA5762926248B00E81B4D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB0AA5782926248B00E81B4D /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		AB0AA57B2926248B00E81B4D /* PIA11coredata.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = PIA11coredata.xcdatamodel; sourceTree = "<group>"; };
+		AB0AA5822926355400E81B4D /* TodoDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				AB0AA56F2926248900E81B4D /* PIA11coredataApp.swift */,
 				AB0AA5712926248900E81B4D /* ContentView.swift */,
+				AB0AA5822926355400E81B4D /* TodoDetailView.swift */,
 				AB0AA5732926248B00E81B4D /* Assets.xcassets */,
 				AB0AA5782926248B00E81B4D /* Persistence.swift */,
 				AB0AA57A2926248B00E81B4D /* PIA11coredata.xcdatamodeld */,
@@ -143,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB0AA5832926355400E81B4D /* TodoDetailView.swift in Sources */,
 				AB0AA5792926248B00E81B4D /* Persistence.swift in Sources */,
 				AB0AA57C2926248B00E81B4D /* PIA11coredata.xcdatamodeld in Sources */,
 				AB0AA5722926248900E81B4D /* ContentView.swift in Sources */,
